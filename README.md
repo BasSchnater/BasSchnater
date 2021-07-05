@@ -15,7 +15,10 @@ Languages I'm working with:
 - SQL
 
 If you want to get in touch, get in touch via the following channels:
-[![image](https://user-images.githubusercontent.com/62284374/124474620-09dec680-dda1-11eb-9500-5033b7d0435e.png)](https://twitter.com/BasSchnater)
+[![image](https://user-images.githubusercontent.com/62284374/124474620-09dec680-dda1-11eb-9500-5033b7d0435e.png)](https://twitter.com/BasSchnater) [![image](https://user-images.githubusercontent.com/62284374/124475001-807bc400-dda1-11eb-902f-b07a26cdd00e.png)](https://www.linkedin.com/in/basschnater/)
+
+
+
 
 
 <!---
