@@ -1,3 +1,5 @@
+![image](https://fanengagement.nl/wp-content/uploads/2019/08/cropped-Bas-Schnater-extra-foto-kopie-1.jpg)
+
 Great to find you here! I am Bas Schnater, working as a data scientist / data analyst in football business & media (newspaper publishing). I'm interested in all things where football business and data science come together.
 
 In a previous working life I've been head of CRM projects at Dutch football club @AZ-Alkmaar. Here, I've drastically improved season ticket retention from 78% tovi 95% (industry avg. = 85%) by using various transactional and behavioral data sets. This has led to 2nd place World Football Summit award. More information can be found here:
