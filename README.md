@@ -15,15 +15,8 @@ Languages I'm working with:
 - SQL
 
 If you want to get in touch, get in touch via the following channels:
-![image](https://user-images.githubusercontent.com/62284374/124474620-09dec680-dda1-11eb-9500-5033b7d0435e.png)
+[![image](https://user-images.githubusercontent.com/62284374/124474620-09dec680-dda1-11eb-9500-5033b7d0435e.png)](https://twitter.com/BasSchnater)
 
-
-
-- 👋 Hi, I’m @BasSchnater
-- 👀 I’m interested in all things football business
-- 🌱 I’m currently learning R and SQL
-- 💞️ I’m looking to collaborate on football business projects
-- 📫 How to reach me: @BasSchnater on Twitter
 
 <!---
 BasSchnater/BasSchnater is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
